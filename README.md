@@ -20,4 +20,5 @@ __alt bolt__
 
 There are also <sub>Subscript</sub> and <sup>Superscript</sup>
 
-if you want to quote something, >please use this to quote the sentence of target
+if you want to quote something, 
+> please use this to quote the sentence of target
