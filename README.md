@@ -7,3 +7,6 @@ MarkDown practice
 #### heading 4
 ##### heading 5
 ###### heading 6
+
+**Use bold font**
+__alt bolt__ 
