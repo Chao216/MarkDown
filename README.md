@@ -46,4 +46,6 @@ the first footnote.[^1]
 the second footnote.[^2]
 how about using words.[^footnote]
 
+[^1]: this is the first footnote.
+
 you can also comment out like html <!-- comment will not be displayed-->
