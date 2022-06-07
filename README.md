@@ -47,5 +47,7 @@ the second footnote.[^2]
 how about using words.[^footnote]
 
 [^1]: this is the first footnote.
+[^2]: remember you need to also write the content for footnote in pair.
+[^footnote]:then you will see the footnote later.
 
 you can also comment out like html <!-- comment will not be displayed-->
