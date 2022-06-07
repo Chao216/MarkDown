@@ -45,3 +45,5 @@ you can add link [Walking By The World](https://www.youtube.com/watch?v=FMl7GEaY
 the first footnote.[^1]
 the second footnote.[^2]
 how about using words.[^footnote]
+
+you can also comment out like html <!-- comment will not be displayed-->
