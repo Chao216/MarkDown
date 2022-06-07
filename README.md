@@ -11,4 +11,4 @@ MarkDown practice
 **Use bold font**
 __alt bolt__ 
 
-* * Italic font * * _alt italic_
+* *Italic font* * _alt italic_
