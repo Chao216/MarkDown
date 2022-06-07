@@ -26,6 +26,9 @@ if you want to quote something,
 you can quote inline ` $ cd ~/Desktop `  
 
 or you can quote multi-line code
-```ls
+
+```
+ls
 pwd
-neofetch```
+neofetch
+```
