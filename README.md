@@ -13,7 +13,7 @@ __alt bolt__
 
 *Italic font*  _alt italic_
 
-~~ strike through ~~
+~~strike through~~
 **bold and _italic_ nested**
 
 ***all bold and italic***
