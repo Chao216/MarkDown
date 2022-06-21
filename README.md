@@ -52,7 +52,7 @@ you can resize the image on marddown as follow
 ---
 
 ![conan origin size](https://static.wikia.nocookie.net/caseclosed/images/a/a7/Infobox_-_Mary_Sera.jpg/revision/latest?cb=20180225032036)
-![conan width](https://static.wikia.nocookie.net/caseclosed/images/a/a7/Infobox_-_Mary_Sera.jpg/revision/latest?cb=20180225032036 | width =100)
+![conan width](https://static.wikia.nocookie.net/caseclosed/images/a/a7/Infobox_-_Mary_Sera.jpg/revision/latest?cb=20180225032036 | width=100)
 ![conan width height](https://static.wikia.nocookie.net/caseclosed/images/a/a7/Infobox_-_Mary_Sera.jpg/revision/latest?cb=20180225032036 =100x70)
 
 - list
