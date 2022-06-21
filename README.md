@@ -96,5 +96,6 @@ to create a table in markdown, do as follow. `:--` align to left, `--:` align to
 ```
 ---
 
-NPM is useful tool to install node packages.
 *[NPM]: Node Package Manager
+NPM is useful tool to install node packages.
+
