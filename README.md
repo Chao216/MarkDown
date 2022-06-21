@@ -85,7 +85,14 @@ you can also comment out like html <!-- comment will not be displayed-->
 |d|e|f|
 |g|h|i|
 
+to create a table in markdown, do as follow. `:--` align to left, `--:` align to right, `:--:` align center.
 ```markdown
+|header1|header2|header3|
+|:--:|:--:|:--:|
+|a|b|c|
+|d|e|f|
+|g|h|i|
 
 ```
+---
 
