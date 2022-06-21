@@ -76,3 +76,16 @@ how about using words.[^footnote]
 you can also comment out like html <!-- comment will not be displayed-->
 
 ---
+
+#### table and alignment
+
+|header1|header2|header3|
+|:--:|:--:|:--:|
+|a|b|c|
+|d|e|f|
+|g|h|i|
+
+```markdown
+
+```
+
