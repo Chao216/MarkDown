@@ -46,13 +46,12 @@ you can add link [Walking By The World](https://www.youtube.com/watch?v=FMl7GEaY
 you can resize the image on marddown as follow
 
 ```
-![image alt](path_to_image | width = 100)
 ![image alt](path_to_image = 100x100)
 ```
 ---
 
 ![conan origin size](https://static.wikia.nocookie.net/caseclosed/images/a/a7/Infobox_-_Mary_Sera.jpg/revision/latest?cb=20180225032036)
-![conan width](https://static.wikia.nocookie.net/caseclosed/images/a/a7/Infobox_-_Mary_Sera.jpg/revision/latest?cb=20180225032036 | width=100)
+
 ![conan width height](https://static.wikia.nocookie.net/caseclosed/images/a/a7/Infobox_-_Mary_Sera.jpg/revision/latest?cb=20180225032036 =100x70)
 
 - list
