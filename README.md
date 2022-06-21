@@ -37,6 +37,13 @@ you can add link [Walking By The World](https://www.youtube.com/watch?v=FMl7GEaY
 
 ![an image](https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png)
 
+you can resize the image on marddown as follow
+
+```
+![image alt](path_to_image | width = 100)
+![image alt](path_to_image = 100x100)
+```
+
 - list
   - sub list
      - sub sub list  
