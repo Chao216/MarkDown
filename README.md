@@ -52,7 +52,7 @@ you can resize the image on marddown as follow
 
 ![conan origin size](https://static.wikia.nocookie.net/caseclosed/images/a/a7/Infobox_-_Mary_Sera.jpg/revision/latest?cb=20180225032036)
 
-![Saki](https://cdn.up-timely.com/image/2/actress_main/16033/coTkpxLIaqIMkXxO3lTFYJOzG13SkOzJey8LODkZ.jpg = 200x340)
+![Saki](https://cdn.up-timely.com/image/2/actress_main/16033/coTkpxLIaqIMkXxO3lTFYJOzG13SkOzJey8LODkZ.jpg =200x340)
 
 - list
   - sub list
